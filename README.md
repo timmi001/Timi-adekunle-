@@ -30,7 +30,7 @@ I specialize in turning designs into clean, functional interfaces using modern w
 * 📊 Dashboard App – Data visualization with API integration
 * 🎬 Movie App – Search + filter movies using external API
 
-(Replace with your real projects + links)
+
 
 ⸻
 
@@ -44,9 +44,9 @@ I specialize in turning designs into clean, functional interfaces using modern w
 
 📫 Let’s Connect
 
-* Portfolio: [your-portfolio-link]
-* LinkedIn: [your-linkedin]
-* Email: [your-email]
+* Portfolio: https://frontend-portfolio-5adoilyx6-build-websites.vercel.app
+* LinkedIn: https://www.linkedin.com/in/timi-adekunle-b43170385?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+* Email: adekunlete@gmail.com
 
 ⸻
 
